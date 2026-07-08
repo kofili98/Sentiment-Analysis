@@ -1,6 +1,3 @@
-# Group 6, 4.3 Assignment
-# First Dataset: IMDB Dataset
-
 # Load libraries to use
 install.packages(c(
   "tidyverse",
