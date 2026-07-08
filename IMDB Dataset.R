@@ -1,6 +1,3 @@
-# Group 6, 2.3 Assignment
-# Frist Dataset: IMDB Dataset
-
 # reading the first dataset, narrowing down to 10000 rows due to large amount of data
 IMDB_data <- read.csv("IMDB Dataset.csv", header = TRUE, stringsAsFactors = FALSE, nrows = 10000)
 
