@@ -1,6 +1,3 @@
-# Group 6, Assignment 3.3
-# IMDB
-
 library(tidyverse)
 library(tidytext)
 
